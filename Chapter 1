@@ -60,4 +60,7 @@ _ = plt.plot(x_double, y_double)
 # Show the plot
 plt.show()
 
+#Linear regression by least squares
+
+
 
