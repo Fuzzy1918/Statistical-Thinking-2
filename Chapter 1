@@ -118,4 +118,5 @@ plt.ylabel('sum of square of residuals')
 
 plt.show()
 
+#The importance of EDA: Anscombe's quartet
 
