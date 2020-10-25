@@ -20,3 +20,6 @@ _ = plt.ylabel('ECDF')
 
 # Show the plot
 plt.show()
+
+#Bootstrap confidence intervals
+
