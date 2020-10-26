@@ -83,3 +83,7 @@ _ = plt.ylabel('PDF')
 
 # Show the plot
 plt.show()
+
+#Pairs bootstrap
+
+
