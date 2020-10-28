@@ -40,3 +40,7 @@ plt.margins(0.02)
 _ = plt.xlabel('monthly rainfall (mm)')
 _ = plt.ylabel('ECDF')
 plt.show()
+
+#Test statistics and p-values
+
+
